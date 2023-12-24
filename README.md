@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arun A R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunar1&label=Profile%20views&color=0e75b6&style=flat" alt="arunar1" /> </p> 
 
@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Spring boot, React, React-native**
 
-- 💬 Ask me about **who am i**
+- 💬 Ask me about **who am i 🤪**
 
-- 📫 How to reach me **instagram**
+- 📫 How to reach me **LinkedIn**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
