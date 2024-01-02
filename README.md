@@ -36,7 +36,7 @@
 -->
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunar1&" alt="arunar1" /></p>-->
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![Arun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arunar1&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunar1&theme=dark&hide_border=false)<br/>
